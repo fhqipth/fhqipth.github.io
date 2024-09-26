@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fhqipth.github.io/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/app/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/assets/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/css/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/data/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/includes/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/item/sitemap.fhqipth.gz
+Sitemap: https://fhqipth.github.io/src/sitemap.fhqipth.gz
